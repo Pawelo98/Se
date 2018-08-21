@@ -1,0 +1,40 @@
+Arsenal
+70000000.00
+Bournemouth
+30000000.00
+Brighton&Hove Albion
+23000000.00
+Burnley
+34000000.00
+Cardiff City
+12000000.00
+Chelsea
+90000000.00
+Crystal Palace
+40000000.00
+Everton
+50000000.00
+Fulham
+20000000.00
+Huddersfield Town
+22000000.00
+Leicester City
+35000000.00
+Liverpool
+75000000.00
+Manchester City
+130000000.00
+Manchester United
+170000000.00
+Newcastle United
+50000000.00
+Southampton
+30000000.00
+Tottenham Hotspur
+70000000.00
+Watford
+24000000.00
+West Ham United
+33000000.00
+Wolverhampton Wanderers
+35000000.00
